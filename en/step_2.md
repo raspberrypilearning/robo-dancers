@@ -1,13 +1,18 @@
-## What you will need
+## Getting started
 
-### Hardware
+Choose a robot and some music to dance to.
 
-+ List hardware here, or delete section.
 
-### Software
 
-+ List software here, or delete section.
++ Go to the Robo-Dancers webpage at <a href="http://jumpto.cc/robo" target="_BLANK">jumpto.cc/robo</a>, and click 'Make Something' to get started.
 
-### Additional Resources
+![screenshot](images/robo-make.png)
 
-+ List additional resources, or delete section.
++ Press the left and right arrows to choose your dancer, and click 'Let's dance' when you've chosen one.
+
+![screenshot](images/robo-choose-robot.png)
+
++ You can also choose the music that your robot dances to.
+
+![screenshot](images/robo-choose-music.png)
+

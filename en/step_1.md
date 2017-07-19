@@ -1,19 +1,11 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Use the Robo-Dancers app to code your own dance moves.
 
-### What you will make
+![screenshot](images/robo-final.png)
 
-Add something here to showcase here, for example:
+### Additional information for club leaders
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+If you need to print this project, please use the [Printer friendly version](./print).
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
 
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
